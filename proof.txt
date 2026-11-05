@@ -1,0 +1,2 @@
+main() started
+TRAINING FULLY FINISHED
